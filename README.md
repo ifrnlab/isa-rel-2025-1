@@ -1,5 +1,5 @@
 # isa-rel
-Relatório de ISA da girafa 🦒.
+Relatório de ISA da girafa :giraffe:.
 
 ## Material
 
