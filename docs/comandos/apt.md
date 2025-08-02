@@ -70,3 +70,8 @@ More information: https://manned.org/apt.8.
    apt list [-i|--installed]
 ```
 
+## Exemplos
+
+- `sudo apt update`
+- `sudo apt install -y nano`
+
